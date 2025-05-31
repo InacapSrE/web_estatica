@@ -1,3 +1,13 @@
 body {
+    background-color: blue;
+}
+
+.caja1{
     background-color: #fae0b8;
+    width: 1000px;
+    height: 400px;
+}
+img {
+    height: auto;
+    width: 30%;
 }
